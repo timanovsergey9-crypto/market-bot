@@ -1,0 +1,4 @@
+python-telegram-bot>=21.0,<22
+aiohttp>=3.9
+python-dotenv>=1.0
+psycopg[binary]>=3.1
